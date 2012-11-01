@@ -242,7 +242,7 @@ height:20px;
 			border-right:solid 1px;
 			padding-right:10px;
 			}
-			#bioparagraph{:relative;
+			#bioparagraph{position:relative;
 			color:white;
 			font-size:.85em;
 			font-weight:normal;
